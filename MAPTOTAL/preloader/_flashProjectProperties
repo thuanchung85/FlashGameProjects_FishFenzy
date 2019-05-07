@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1295433178825</id>
+  <name>preloaderMapTotal</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Chung/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Chung/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/game nhiu tap/MAPTOTAL/preloader/preloaderMapTotal.fla</defaultApp>
+  <rootURI>file:///D|/game nhiu tap/MAPTOTAL/preloader/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="MapPoint.as">file:///D|/game nhiu tap/MAPTOTAL/preloader/MapPoint.as</uri>
+    <uri label="MainMAPLON.as">file:///D|/game nhiu tap/MAPTOTAL/preloader/MainMAPLON.as</uri>
+    <uri label="MapLonMC.as">file:///D|/game nhiu tap/MAPTOTAL/preloader/MapLonMC.as</uri>
+    <uri label="data.xml">file:///D|/game nhiu tap/MAPTOTAL/preloader/data.xml</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

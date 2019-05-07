@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<lib
+	levelopen="2"
+	levelnow="1"
+	ten="Người chơi 1"
+	linkhinh="player.jpg"
+	somang="3"  
+	somangMax="3" 
+	thoigiancho="10">
+	
+	<urllevel id="1" filename= "gamelevel1.swf"><![CDATA[data.xml]]></urllevel>
+	<urllevel id="2" filename= "gamelevel2.swf"><![CDATA[data.xml]]></urllevel>
+	
+	
+	<level id="1" ten="Trần thị Phương Nhi" hang="1" diem="1110" ><![CDATA[gh1.jpg]]></level>
+	<level id="1" ten="Trần thị Phương Nhi" hang="2" diem="110" ><![CDATA[gh1.jpg]]></level>
+	<level id="1" ten="Trần thị Phương Nhi" hang="3" diem="10" ><![CDATA[gh1.jpg]]></level>
+	<level id="1" ten="Trần thị Phương Nhi" hang="4" diem="9" ><![CDATA[gh1.jpg]]></level>
+	<level id="1" ten="Trần thị Phương Nhi" hang="5" diem="8" ><![CDATA[gh1.jpg]]></level>
+	
+	<level id="2" ten="ads" hang="1" diem="2809" ><![CDATA[gh2.jpg]]></level>
+	<level id="2" ten="none" hang="2" diem="2109" ><![CDATA[gh2.jpg]]></level>
+	<level id="2" ten="none" hang="3" diem="2019" ><![CDATA[gh2.jpg]]></level>
+	<level id="2" ten="none" hang="4" diem="2004" ><![CDATA[gh2.jpg]]></level>
+	<level id="2" ten="none" hang="5" diem="2002" ><![CDATA[gh2.jpg]]></level>
+	
+	
+	
+</lib>
